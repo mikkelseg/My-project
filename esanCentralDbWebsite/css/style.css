@@ -1,0 +1,24 @@
+.vertical{ padding-top:150px;
+padding-bottom:150px;
+}
+
+a:hover,
+a:active{text-decoration:none;
+}
+li{text-decoration:none; list-style:none !important;display: inline-block
+}
+
+li  a{
+color:#fff
+
+}
+li a:active{ color:#CCC; text-decoration:none;
+	
+	}
+.list-group-item-danger{background-color:#f08080 !important;
+}
+
+.list-group-item-danger:hover{ background-color:#a85959 !important; color:#fff !important; text-decoration:none; transition: all 500ms ease-in-out;
+}
+
+li a:hover{text-decoration:none; color:#fff; list-style:none}
